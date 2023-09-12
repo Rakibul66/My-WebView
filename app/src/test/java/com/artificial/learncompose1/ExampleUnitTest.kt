@@ -1,4 +1,4 @@
-package com.artificial.mywebview
+package com.artificial.learncompose1
 
 import org.junit.Test
 

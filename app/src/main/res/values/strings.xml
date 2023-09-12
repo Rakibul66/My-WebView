@@ -1,4 +1,3 @@
 <resources>
-    <string name="app_name">MyWebView</string>
-    <string name="title_activity_webview">WebviewActivity</string>
+    <string name="app_name">learncompose1</string>
 </resources>

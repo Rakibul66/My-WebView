@@ -1,4 +1,4 @@
-package com.artificial.mywebview
+package com.artificial.learncompose1
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
@@ -19,6 +19,6 @@ class ExampleInstrumentedTest {
     fun useAppContext() {
         // Context of the app under test.
         val appContext = InstrumentationRegistry.getInstrumentation().targetContext
-        assertEquals("com.artificial.mywebview", appContext.packageName)
+        assertEquals("com.artificial.learncompose1", appContext.packageName)
     }
 }
